@@ -1,7 +1,7 @@
 my_string = "Hello, world!"
-  puts my_string 
+puts my_string
 
-  require "./goodbye.rb"
+require "./goodbye.rb"
 require "active_support/all"
 
 puts "What's your name?"
